@@ -34,3 +34,4 @@ function setup() {
       xJogador2 += random(11);
     }
   }
+  
